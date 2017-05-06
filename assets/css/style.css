@@ -162,6 +162,7 @@ footer > p {
 	border: 1px solid #CCC;
 	padding: 0;
 	max-width: 220px;
+	min-width: 200px;
 }
 
 .portLabel {
